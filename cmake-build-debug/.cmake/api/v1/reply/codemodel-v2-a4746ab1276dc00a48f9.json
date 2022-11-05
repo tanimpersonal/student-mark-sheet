@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "student_oop_practice",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-student-Debug-97d009896af4655a5f81.json",
+					"name" : "student",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "student_oop_practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-student_oop_practice-Debug-111e402c3accb3226ccf.json",
+					"name" : "student_oop_practice",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice/cmake-build-debug",
+		"source" : "D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

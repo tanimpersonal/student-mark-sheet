@@ -1,0 +1,4 @@
+D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice/cmake-build-debug/CMakeFiles/student_oop_practice.dir
+D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice/cmake-build-debug/CMakeFiles/student.dir
+D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Self Learning and Stuffs/CSE Funda/C++/student-oop-practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
